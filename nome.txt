@@ -1,7 +1,1 @@
-
-    Directory: C:\Users\Jeverton Arinos\Documents\git
-
-Mode                 LastWriteTime         Length Name
-----                 -------------         ------ ----
-d----          22/05/2024    16:28                 criando arquivo
-
+ jeverton Arinos 
